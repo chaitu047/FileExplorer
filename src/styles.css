@@ -1,0 +1,10 @@
+.file-item {
+  margin-left: 0.5rem;
+  border-left: 1px solid grey;
+  padding: 0.5rem;
+}
+
+.file-content {
+  display: flex;
+  gap: 1rem;
+}
